@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  backend:
+    build:
+      context: .
+    ports:
+      - 8090:8080
+    environment:
+      - PORT=8080
+      - DBURL=mysql
+      - DBUSER=root
+      - DBPASSWORD=password
+      - DBDATABASE=todo
+      - DBPORT=3306
