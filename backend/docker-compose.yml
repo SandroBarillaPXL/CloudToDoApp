@@ -9,7 +9,7 @@ services:
     environment:
       - PORT=8080
       - DBURL=mysql
-      - DBUSER=root
+      - DBUSER=username
       - DBPASSWORD=password
       - DBDATABASE=todo
       - DBPORT=3306
