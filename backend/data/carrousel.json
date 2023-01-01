@@ -1,5 +1,5 @@
 [
-    {"url": "S3DNS/foto1.jpg"},
-    {"url": "S3DNS/foto2.jpg"},
-    {"url": "S3DNS/foto3.jpg"}
+    {"url": "https://S3DNS/foto1.jpg"},
+    {"url": "https://S3DNS/foto2.jpg"},
+    {"url": "https://S3DNS/foto3.jpg"}
 ]
